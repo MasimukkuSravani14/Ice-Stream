@@ -1,0 +1,4 @@
+confluent-kafka==2.6.0
+streamlit==1.39.0
+pandas==2.2.3
+pyarrow==18.0.0
